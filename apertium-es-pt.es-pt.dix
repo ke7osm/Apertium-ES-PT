@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <alphabet/>
+   <sdefs>
+   <sdef n="n"/>
+   <sdef n="sg"/>
+   <sdef n="pL"/>
+   <sdef n="p1"/>
+   <sdef n="p2"/>
+   <sdef n="p3"/>   
+   <sdef n="vblex"/>
+   <sdef n="pri"/>
+   <sdef n="prn"/>
+   <sdef n="subj"/>
+   <sdef n="inf"/>
+   <sdef n="for"/>
+   <sdef n="m"/>
+   <sdef n="f"/>
+   <sdef n="mp"/>
+   <sdef n="sub"/>
+   <sdef n="imp"/> 
+   <sdef n="ind"/>
+   <sdef n="prt"/>
+   <sdef n="fut"/>
+   <sdef n="prs"/>
+   <sdef n="adp"/>
+   <sdef n="con"/> 
+   <sdef n="adj"/> 
+   <sdef n="adv"/>   
+   </sdefs>
+
+   <section id="main" type="standard">
+   <e><p><l>comida<s n="n"/></l><r>comida<s n="n"/></r></p></e>
+   <e><p><l>perro<s n="n"/></l><r>cachorro<s n="n"/></r></p></e>
+   <e><p><l>hombre<s n="n"/></l><r>homem<s n="n"/></r></p></e>
+
+   </section>
+</dictionary>
