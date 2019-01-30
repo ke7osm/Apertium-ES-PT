@@ -69,7 +69,7 @@
 	   <e><p><l>o</l><r> <s n="vblex"/><s n="p1"/><s n="sg"/><s n="prs"/><s n="ind"/></r></p></e>
 	   <e><p><l>es</l><r> <s n="vblex"/><s n="p2"/><s n="sg"/><s n="prs"/><s n="ind"/></r></p></e>
 	   <e><p><l>e</l><r> <s n="vblex"/><s n="p3"/><s n="sg"/><s n="prs"/><s n="ind"/></r></p></e>
-	   <e><p><l>emos</l><r> <s n="vblex"/><s n="p2"/><s n="pL"/><s n="prs"/><s n="ind"/></r></p></e>
+	   <e><p><l>emos</l><r> <s n="vblex"/><s n="p1"/><s n="pL"/><s n="prs"/><s n="ind"/></r></p></e>
 	   <e><p><l>en</l><r> <s n="vblex"/><s n="p2"/><s n="pL"/><s n="prs"/><s n="ind"/></r></p></e>
 	</pardef>
 

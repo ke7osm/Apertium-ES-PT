@@ -35,6 +35,10 @@
 
 	<def-attr n="temps">
 	   <attr-item tags="prs"/>
+
+	</def-attr>
+
+	<def-attr n="mood">
 	   <attr-item tags="ind"/>
 	   <attr-item tags="sub"/>
 	</def-attr>
@@ -93,6 +97,7 @@
 	   <action>
 	     <out>
 	       <lu>
+		 <clip pos="1" side="tl" part="lem"/>
 		 <clip pos="1" side="tl" part="gender"/>
 		 <clip pos="1" side="tl" part="nbr"/>
 	       </lu>
@@ -133,9 +138,10 @@
 	       <lu>
 		 <clip pos="1" side="tl" part="lem"/>
 		 <clip pos="1" side="tl" part="a_verb"/>
-		 <clip pos="1" side="tl" part="temps"/>
 		 <clip pos="1" side="tl" part="pers"/>
 		 <clip pos="1" side="tl" part="nbr"/>
+		 <clip pos="1" side="tl" part="temps"/>
+		 <clip pos="1" side="tl" part="mood"/>
 	       </lu>
 	     </out>
 	   </action>

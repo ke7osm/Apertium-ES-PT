@@ -1,6 +1,8 @@
 declare -a sentences=("El hombre camina"
 			"Yo corro"
-			"ella camina")
+			"ella camina"
+			"perros"
+			"Los")
 
 
 for sent in "${sentences[@]}"
