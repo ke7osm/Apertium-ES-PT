@@ -33,6 +33,9 @@
    <e><p><l>comida<s n="n"/></l><r>comida<s n="n"/></r></p></e>
    <e><p><l>perro<s n="n"/></l><r>cachorro<s n="n"/></r></p></e>
    <e><p><l>hombre<s n="n"/></l><r>homem<s n="n"/></r></p></e>
+   <e><p><l>correr<s n="vblex"/></l><r>correr<s n="vblex"/></r></p></e>
+   <e><p><l>caminar<s n="vblex"/></l><r>caminhar<s n="vblex"/></r></p></e>
+
 
    </section>
 </dictionary>
